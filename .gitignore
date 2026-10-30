@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+*.user
+
+# Game and BepInEx files - NEVER upload these
+*.dll
+*.pdb
+
+# Release packages (these belong in GitHub Releases)
+*.zip
+
+# Editors
+.vs/
+.vscode/
+.idea/
